@@ -1,0 +1,2 @@
+drivein,Checkers,Blimpie,White Castle,Subway,Roy Rogers,Quiznos,Boston Market,Panda Express,Dairy Queen,Nathans Famous,AW Restaurants,Popeyes,KFC,Bojangles,Combination Taco Bells,Taco Bell,Dunkin' Donuts,Long John Silvers,Churchs Chicken,Burger King,Wendys,Chick-fil-A
+deli,McDonalds,Carls Jr,Jack In The Box,Arbys,Taco Johns,Taco Cabana,Whataburger,Jimmy Johns,Starbucks,Tim Hortons,Sonic,Del Taco,Qdoba Mexican Grill,Moes Southwest Grill,Five Guys,In-N-Out,Chipotle Mexican Grill

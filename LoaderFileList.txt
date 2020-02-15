@@ -1,0 +1,5 @@
+/media/sda1/home/gareth/Doc/Thesaurus/NameLists/FemaleFirstNames.txt
+/media/sda1/home/gareth/Doc/Thesaurus/NameLists/MaleFirstNames.txt
+/media/sda1/home/gareth/Doc/Thesaurus/NameLists/LastNames.txt
+/media/sda1/home/gareth/Doc/Thesaurus/NameLists/UsCityNames.txt
+
